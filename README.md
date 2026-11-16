@@ -1,2 +1,4 @@
 # labhansh002.github
-Labhansh Rathore is a young student developer and technology enthusiast from Sariya, Chhattisgarh, India. Currently studying in Standard 9 at Mona Modern English Medium School, Lodiya, Baramkela, Chhattisgarh, he specializes in Python, JavaScript, and HTML, and is known for building automation tools like the Jarvis desktop voice assistant.
+Labhansh Rathore is a young student developer and technology enthusiast from Sariya, Chhattisgarh, India. Currently studying in Standard 9 at Mona Modern English Medium School, Lodiya, Baramkela, Chhattisgarh, he specializes in Python, JavaScript, and HTML, and is known for building automation tools like the Jarvis desktop voice assistant
+I also use instagram and my instagram profile is @labhansh_002
+I also have make a my own jarvis assistant which only works with my voice whenever i give any task by saying "HEY JARVIS" than he says yes sir i am here than i tell the yask to him than he complete the task and he complete all the task whatever i had give to him after compliting the task he said "YES SIR KAAM HO GYA" Thats how he works and now i am making more changes on it making it more smarter  
